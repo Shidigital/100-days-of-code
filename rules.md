@@ -1,7 +1,8 @@
 # Rules of the 100 Days Of Code Challenge
 
 ## Main Commitment
-### *I will code for at least an hour every day for the next 100 days. Since my main work is on a ship with 2week/2week shift, on hard work days or no internet when it is required to go on, there it will be ok to not code, but then I have to code more hours on another day in my next free shift.*
+### *I will code for at least an hour every day for the next 100 days.*
+### *Since my main work is on a ship with 2week/2week shift, on hard work days or no internet when it is required to go on, there it will be ok to not code, but these days will pushed to the end of the challenge, so it will be 100 days of coding.*
 
 #### Start Date
 1. Januar, 2018.
