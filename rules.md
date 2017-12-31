@@ -1,17 +1,17 @@
 # Rules of the 100 Days Of Code Challenge
 
 ## Main Commitment
-### *I will code for at least an hour every day for the next 100 days.*
+### *I will code for at least an hour every day for the next 100 days. Since my main work is on a ship with 2week/2week shift, on hard work days or no internet when it is required to go on, there it will be ok to not code, but then I have to code more hours on another day in my next free shift.*
 
 #### Start Date
-June 25th, 2016. [PUT YOUR DATE HERE]
+1. Januar, 2018.
 
 ## Additional Rules
-1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode
-2. If I code at work, that time won't count towards the challenge.
-3. I will push code to GitHub every day so that anyone can see my progress.
-4. I will update the (Log)[log.md] with the day's progress and provide a link so that others can see my progress.
-5. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge. (If you've just started learning to code, read [FAQ](FAQ.md))
+1. I will tweet about my progress every day, when I have internet access. -> using the hashtag #100DaysOfCode
+2. I will push code to GitHub every day so that anyone can see my progress, when I have internet access.
+3. I will update the (Log)[log.md] with the day's progress and provide a link so that others can see my progress, when I have internet.
+4. I will work on real projects, facing real challenges, when I have free shift. On the ship tutorials and more easy to do stuff will be ok, depending on how much other work I have.
+5. Days I can not work properly in my workshift, will make holes into this, but they will be put at the end of the challenge, so overall it will be 100 days.
 
 
 ## Ideas to make this challenge more effective
