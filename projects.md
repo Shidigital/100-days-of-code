@@ -1,6 +1,6 @@
 ## *Projects I want to do within the 100 days of code*
 
-## make my own Website new and great (HTML/CSS/JavaScript and the planning ahead as well)
+# make my own Website new and great (HTML/CSS/JavaScript and the planning ahead as well)
 - https://www.shidigital.com (the old one)
 - I chose to not use any framework for performance reasons and so I need to learn how everything works by myself
 
@@ -17,6 +17,8 @@
 - planning of the Sitemap
 - planning of the Layout
 - make a basic Mockup in HTML and CSS
+
+-----
 
 
 # make a simple game with JavaScript
