@@ -13,11 +13,11 @@
 
 * shidigital.com
 * shidigital.com/shidigital
-shidigital.com/contact
-../impressum
-shidigital.com/blog/article
-shidigital.com/webdev/portfolio/beispielseite
-../translation
-../seo
+* shidigital.com/contact
+* ../impressum
+* shidigital.com/blog/article
+* shidigital.com/webdev/portfolio/beispielseite
+* ../translation
+* ../seo
 
-Das ganze auf English unter en.shidigital 
+* English version with en.shidigital 
