@@ -11,8 +11,8 @@
 
 # Struktur:
 
-shidigital.com
-shidigital.com/shidigital
+* shidigital.com
+* shidigital.com/shidigital
 shidigital.com/contact
 ../impressum
 shidigital.com/blog/article
