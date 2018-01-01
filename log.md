@@ -3,7 +3,7 @@
 
 ### Day 1: January 1, 2018
 
-**Today's Progress:** working on a responsive menu for my website (switch to hamburger menu for mobile)
+**Today's Progress:** working on a responsive menu for my website (switch to hamburger menu for mobile) HTML/CSS
 
 **Thoughts:** goes in the right direction now, but I still need to tweek further
 
