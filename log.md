@@ -1,5 +1,6 @@
 # 100 Days Of Code - Log
 
+When I am in workshift, it is acceptable to not code continously.
 
 ### Day 1: January 1, 2018
 
@@ -14,5 +15,13 @@
 **Today's Progress:** futher work on my header to make menu responsive, some color change - HTML/CSS
 
 **Thoughts:** Header is working as it should, still could need some better styling.
+
+**Link:** 
+
+### Day 3: January 6, 2018
+
+**Today's Progress:** finished the header and navigation for my website - HTML/CSS
+
+**Thoughts:** Header is working as it should, responsive and looks decently.
 
 **Link:** 
