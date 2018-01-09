@@ -33,3 +33,11 @@ When I am in workshift, it is acceptable to not code continously.
 **Thoughts:** Found some nice desing ideas. The internet gives you all the ideas you need.
 
 **Link:** https://mayvendev.com/blog/15-tips-for-creating-a-great-website-footer
+
+### Day 5: January 9, 2018
+
+**Today's Progress:** finished the footer for my website, simple desing- HTML/CSS
+
+**Thoughts:** with a good font, whole website looks immediately way better!
+
+**Link:** https://twitter.com/shidigital/status/950803996712808449
