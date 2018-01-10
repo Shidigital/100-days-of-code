@@ -41,3 +41,20 @@ When I am in workshift, it is acceptable to not code continously.
 **Thoughts:** with a good font, whole website looks immediately way better!
 
 **Link:** https://twitter.com/shidigital/status/950803996712808449
+
+### Day 6: January 10, 2018
+
+**Today's Progress:** Working on startpage of my website, HTML/CSS
+
+**Thoughts:** the basic look is there, still needs some tweeking
+
+**Link:** https://twitter.com/shidigital/status/951216349552021505
+
+
+### Day :
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Link:**
