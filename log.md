@@ -50,6 +50,23 @@ When I am in workshift, it is acceptable to not code continously.
 
 **Link:** https://twitter.com/shidigital/status/951216349552021505
 
+### Day 7: January 11, 2018
+
+**Today's Progress:** Working on startpage, made it responsive, HTML/CSS, put out a live sample to test different screensizes/browsers etc.
+
+**Thoughts:** looks a bit empty still, but first comes to make the basic design responsive
+
+**Link:** https://www.shidigital.com/shidigital2/
+
+
+### Day :
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Link:**
+
 
 ### Day :
 
