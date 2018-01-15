@@ -59,13 +59,22 @@ When I am in workshift, it is acceptable to not code continously.
 **Link:** https://www.shidigital.com/shidigital2/
 
 
-### Day :
+### Day 8: January 14, 2018
 
-**Today's Progress:**
+**Today's Progress:** Included the translation page, had some problems with the borders of header and footer, because of the W3C.css inclusion in this page.
 
-**Thoughts:**
+**Thoughts:** Working in the ICE is not that bad at all.
 
-**Link:**
+**Link:** https://shidigital.com/shidigital2/translation/index.html
+
+
+### Day 9: January 15, 2018
+
+**Today's Progress:** I solved the problem with the borders. Only the last end of the footer does not what it should.
+
+**Thoughts:** Working with others frameworks is sometimes more work than working out everything by myself.
+
+**Link:** https://twitter.com/shidigital/status/952943067610349568
 
 
 ### Day :
